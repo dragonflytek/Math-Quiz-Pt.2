@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(210, 245, 245);
+}
+
+#buttonSubmit{
+    background-image: linear-gradient(to right,rgb(206, 255, 166), rgb(132, 207, 88), rgb(208, 255, 133) );
+}
